@@ -50,6 +50,8 @@ markdown_extensions:
 extra:
   social:
     - icon: simple/github
-      link: https://github.com/
+      link: https://github.com/Oscar-SR
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/oscar-s-r/
 
 copyright: Copyright &copy; 2025 Óscar Sánchez Rubio

@@ -52,4 +52,4 @@ For running the project locally, use this command:
 mkdocs serve
 ```
 
-After that, the website will be available at `http://127.0.0.1:8000` as default.
+After that, the website will be available at `http://127.0.0.1:8000` by default.
